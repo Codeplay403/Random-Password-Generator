@@ -9,4 +9,5 @@ pip install requests
 
 Run
 ___
+cd Random-Password-Generator
 python gen_rand_passwd.py
