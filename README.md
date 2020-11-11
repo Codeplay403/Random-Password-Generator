@@ -6,3 +6,7 @@ ____________
 apt update && apt upgrade
 pkg install python 
 pip install requests
+
+Run
+___
+python gen_rand_passwd.py
